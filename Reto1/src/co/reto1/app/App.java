@@ -15,7 +15,7 @@ public class App {
 
     private static final ImageIcon icono = new ImageIcon("C:\\POO archivos\\Reto\\POO.png");
     private static final int SUMAR = 0;//Operacion sumar
-    private static final int RESTAR = 1;
+    private static final int RESTAR = 1;//operacion restar
     private static final int MULTIPLICAR = 2;
     private static final int DIVIDIR = 3;
     public static void main(String[] args) {
