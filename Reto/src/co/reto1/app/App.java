@@ -9,8 +9,6 @@ import java.util.List;
 
 public class App {
     /*
-    David Camilo Ayala Marín
-    Jorge Andrés Carmona Ramírez
     Yenny Marcela Vargas Rincón
     Andrés Felipe Pinzón Franco
      */
